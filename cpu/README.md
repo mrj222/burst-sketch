@@ -36,7 +36,7 @@ make
 
 * run analysis experiments on CAIDA dataset: 
 
-	* run window type test (n), effect of stage 1 test (n), memory usage test (u), burst inside burst test (i): 
+	* run window type test (v), effect of stage 1 test (n), memory usage test (u), burst inside burst test (i): 
 	```
 	./cpu {path} 2 -{command-type}
 	```
